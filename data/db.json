@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted and occupied espesially when there is nothing insteresting going on. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening party!",
+      "body": "Why do we use it?\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. It is a long established fact that a reader will be distracted and occupied espesially when there is nothing insteresting going on. ",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Something in the Way",
+      "body": "Underneath the bridge\nTarp has sprung a leak\nAnd the animals I've trapped\nHave all become my pets\nAnd I'm living off of grass\nAnd the drippings from my ceiling\nIt's okay to eat fish\nCause they don't have any feelings\nSomething in the way\nMmm-mmm\nSomething in the way, yeah\nMmm-mmm\nSomething in the way\nMmm-mmm\nSomething in the way, yeah\nMmm-mmm\nSomething in the way\nMmm-mmm\nSomething in the way, yeah\nMmm-mmm\nUnderneath the bridge\nTarp has sprung a leak\nAnd the animals I've trapped\nHave all become my pets\nAnd I'm living off of grass\nAnd the drippings from the ceiling\nIt's okay to eat fish\nCause they don't have any feelings",
+      "author": "yoshi",
+      "id": 4
+    }
+  ]
+}
